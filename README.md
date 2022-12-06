@@ -1,15 +1,14 @@
-# MetaAds Built on Optimism
+# MetaAds Built on Evmos
 Note: this code has not been audited.
 
 # Summary
 
-MetaAds provides a decentralized way of running ad campaign in the metaverse. It allows Metaverse Space owners to mint an NFT representing their space while specifying the number of daily visitors and a link pointing to their Space in the metaverse. And Users can pay a specified ammount to run a campaign for number of days selected.
+MetaAds provides a decentralized way of running ad campaign in the metaverse/web3 space. It allows Space owners to mint an NFT representing their space while specifying the number of daily visitors. And Users can pay a specified ammount to run a campaign for number of days selected.
 
 # How it works
 
-*User mints a new ad space on the metaverse as an NFT while
-specifying the required parameters and paying a one time optimism public goods fee for the awesome
-community :)
+*User mints a new ad space on Meta-Ads as an NFT while
+specifying the required parameters
 
 *Space will be automatically listed in the marketplace.
 
@@ -22,7 +21,7 @@ marketplace
 
 # MetaAds Slides(Presentation)
 
-[Slide deck](https://docs.google.com/presentation/d/1bNEpsIAwUjTGhdi-A5FbyL-8d9t8cfeQ/edit?usp=sharing&ouid=112615134748046055372&rtpof=true&sd=true).
+[Slide deck](https://docs.google.com/presentation/d/1FElEGA7fLZpcg9HP-vKWpoj-7wnRgFr1/edit?usp=sharing&ouid=112615134748046055372&rtpof=true&sd=true).
 
 ![metaAds homepage](https://user-images.githubusercontent.com/87926451/205502706-6c92be42-d0cf-4e5a-86ad-65aa42508725.png)
 
