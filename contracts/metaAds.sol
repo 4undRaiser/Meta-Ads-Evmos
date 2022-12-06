@@ -70,7 +70,6 @@ contract MetaAds is ERC721Enumerable, ERC721URIStorage, Ownable{
     /** 
     @dev an ipfs url string should be passed to the function argument uri
     @notice this function facilitates the minting and creation of a new ad space.
-    and owners of ad space has to pay the optimism public goods fee to mint a new ad space.
     */
     function mintSpace(
         string calldata uri,
